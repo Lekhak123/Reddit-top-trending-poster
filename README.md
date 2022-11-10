@@ -13,6 +13,6 @@ This discord bot keeps sending top trending stuff from specific subreddits (conf
 
 
 # I personally have been using this for months and it's working flawlessly (Never expected it to work and to be this useful) 
-  ![This was supposed to be a image     ](https://media.discordapp.net/attachments/1025732232255643678/1039243428061528155/image.png?width=533&height=682)
+  ![This was supposed to be a image     ](https://media.discordapp.net/attachments/1025732232255643678/1040305777514119309/image.png?width=473&height=682)
   
 I setup a github action for this program in my private repo and every hour or two, the program sends the latest trending stuff from the subreddits of my choice automatically. 
